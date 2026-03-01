@@ -34,13 +34,7 @@ const Home = () => {
           {/* BACKGROUND IMAGE */}
           
 
-         <a href="https://prebuiltui.com" className="flex items-center gap-2 border border-slate-700 rounded-full p-1 pr-3 text-sm mt-20">
-          <span className="bg-indigo-600 text-xs px-3 py-1 rounded-full">NEW</span>
-          <p className="flex items-center gap-2">
-            <span>Try 30 days free trial option</span>
-            <svg className="mt-px" width="6" height="9" viewBox="0 0 6 9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m1 1 4 3.5L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
-          </p>
-        </a>
+         
 
         <h1 className="text-center text-[40px] leading-[48px] md:text-6xl md:leading-[70px] mt-4 font-semibold max-w-3xl">
           Turn thoughts into websites instantly, with AI.
